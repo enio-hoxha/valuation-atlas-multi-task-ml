@@ -1,0 +1,16 @@
+duckdb
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+tqdm
+joblib
+python-dotenv
+unidecode
+requests
+streamlit
+plotly
+google-generativeai
